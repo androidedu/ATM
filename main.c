@@ -28,6 +28,17 @@
       -> 将本地仓库更新的内容重新提交到 github上
          0. 将更改的内容提交到本地仓库
          1. vcs -> git -> push
+
+      -> 自己或者别人如何访问这个仓库
+         1. 登录github.com
+         2. 找到对应的工程（仓库）
+         3. 可以点击Code -> download zip
+         4. 复制链接地址URL
+            CLion -》 git from version control
+                  -》 url 填入
+                  -》 选择需要保存的位置
+                  -》 clone
+
  */
 int main() {
 
