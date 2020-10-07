@@ -20,7 +20,10 @@
          3.点击commit
 
       -> 将本地仓库 提交 到远程服务器中 github
-        vcs -> git -> push
+         1. file -> settings -> version control -> github -> add account
+         2. 将本地仓库上传到github上
+            vcs -> import into version control
+                -> share project on github
  */
 int main() {
 
