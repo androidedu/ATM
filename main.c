@@ -24,6 +24,10 @@
          2. 将本地仓库上传到github上
             vcs -> import into version control
                 -> share project on github
+
+      -> 将本地仓库更新的内容重新提交到 github上
+         0. 将更改的内容提交到本地仓库
+         1. vcs -> git -> push
  */
 int main() {
 
